@@ -1,0 +1,3 @@
+[console_scripts]
+test_code = demo.test_code:main
+
